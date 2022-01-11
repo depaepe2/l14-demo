@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="l14-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/l14_demo_jar</output-path>
+    <root id="archive" name="l14-demo.jar">
+      <element id="module-output" name="l14-demo" />
+    </root>
+  </artifact>
+</component>
